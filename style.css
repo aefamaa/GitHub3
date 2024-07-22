@@ -1,0 +1,44 @@
+
+.m5{
+ 
+    border: 1px solid rgb(255, 253, 253);
+    display: flex;
+    justify-content: center;
+    
+    gap: 5px;
+}
+
+.m4{
+    width: 1283px;
+    height: 39px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    
+}
+.m3{
+    text-align: center;
+}
+
+
+
+
+.main{
+    
+    border: 1px solid rgb(255, 252, 252);
+    display: flex;
+    justify-content: space-evenly;
+    
+    gap: 10px;
+}
+.box{
+    width: 500px;
+    height: 250px;
+    border: 1px solid red;
+    text-align: center;
+    background-color: red;
+    color: azure;
+    font-size: 30px;
+   
+}  
